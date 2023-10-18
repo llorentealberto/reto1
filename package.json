@@ -1,0 +1,15 @@
+{
+  "name": "reto1",
+  "version": "1.0.0",
+  "description": "creamos el proyecto node dentro del repositorio que hemos clonado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "reto1"
+  },
+  "author": "llorentealberto",
+  "license": "ISC"
+}
